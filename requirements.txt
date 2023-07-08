@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+pyttsx3
+
+You can install these libraries using pip, the Python package manager, by running the following commands in your command-line interface:
+pip install scikit-learn
+pip install pandas
+pip install pyttsx3
+
+Once you have installed these libraries, you can import them in your Python script using the following lines:
+import sklearn
+import pandas as pd
+import pyttsx3
